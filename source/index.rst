@@ -3,13 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Varnish Wiki!
-========================
+Welcome to the Varnish Wiki!
+============================
 
-Here you will find all the resources you need to start using varnish.
-Lets get you started with development to production!
+Here you will find all the resources you need to start using Varnish.
+Let's get you started from development to production!
 
-Varnish is a reverse-proxy HTTP Accelerator designed for heavily consumed
+Varnish is a reverse-proxy HTTP accelerator designed for heavily consumed
 API endpoints and also for dynamic heavy-content websites. Varnish is very 
 flexible and as such can be used as:
 
@@ -19,10 +19,10 @@ flexible and as such can be used as:
 - Edge authentication and authorization mechanism
 - HTTP routing
 - Hotlinking protection
-- DDoS Attack Defender
-- And more..
+- DDoS attack defender
+- And more
 
-Varnish is currently used by high-profile, high-traffic sites such as Facebook, 
+Varnish is currently used by high-profile, high-traffic sites, such as Facebook, 
 Wikipedia, Vimeo, Twitter, Tumblr, The Guardian, VG.no and many others. More
 than 2.5 million sites run the software.
 
